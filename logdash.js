@@ -1,1 +1,1 @@
-window._ = function() {console.log(...arguments)};
+window._ = (...args) => console.log(...args);
