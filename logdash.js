@@ -1,1 +1,1 @@
-this._ = (...args) => console.log(...args);
+this._ = window.console.log
